@@ -1,0 +1,23 @@
+{
+	"debug":false,
+	"spotify":{
+		"clientID":"  YOUR SPOTIFY CLIENT ID HERE  ",
+		"clientSecret":"  YOUR SPOTIFY CLIENT SECRET HERE  ",
+		"callbackUrl":"http://localhost/callback",
+		"scopes":[
+			"playlist-modify-private",
+			"playlist-modify-public",
+			"playlist-read-private",  
+			"playlist-read-private"
+		],
+		"ownerID":"  YOUR SPOTIFY ID HERE  "
+	},
+	"bbc":{
+		"bbc_radio_one":"4yxWI341vNLgg7yPOdTXUJ",
+		"bbc_radio_two":"2DkBpp9Un3bUd7aXr3PtYF",
+		"bbc_radio_three":"5R8xNup4Tv68Wl7DFzPoyE",
+		"bbc_radio_four":"5051zG2jH6tn5fjysAnE8y",
+		"bbc_6music":"3wX697KEo5NauXCg5w3fZo",
+		" CHANGE THE PLAYLISTS ABOVE ":" AND DELETE THIS LINE "
+	}
+}
